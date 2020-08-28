@@ -1,0 +1,19 @@
+.middleNav{
+    left:50%; position:absolute; margin-left: -50px !important;display: block;
+}
+.navStyle{
+    position:relative;height:120px;background-color:#f2f2f2;
+    -webkit-box-shadow: 0 8px 5px -11px black;
+	   -moz-box-shadow: 0 8px 5px -11px black;
+	        box-shadow: 0 8px 5px -11px black;
+}
+.navText{
+    margin-left:70%;
+    display: inline-flex;
+}
+.nav-item{
+    margin-left:20px;
+    margin-top:55px;
+    font-weight: bold;
+    font-size:17px;
+}
